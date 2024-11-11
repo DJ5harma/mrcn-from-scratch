@@ -15,7 +15,7 @@ export default function IntroHeader() {
 						alt="logo.png"
 						width={80}
 						height={80}
-						className="lg:w-24"
+						className="lg:w-28"
 					/>
 				</a>
 				<div className="flex flex-col items-center">
@@ -30,7 +30,7 @@ export default function IntroHeader() {
 						alt="springer logo"
 						width={80}
 						height={80}
-						className="rounded-full lg:w-24"
+						className="rounded-full lg:w-28"
 					/>
 				</a>
 			</div>

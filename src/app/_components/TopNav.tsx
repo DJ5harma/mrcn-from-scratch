@@ -9,7 +9,9 @@ export default function TopNav() {
 			<Link href="/special_sessions" prefetch={true}>
 				<button>Special Sessions</button>
 			</Link>
-			<button>Travel and Visa</button>
+			<Link href="/travel_and_visa" prefetch={true}>
+				<button>Travel and Visa</button>
+			</Link>
 		</nav>
 	);
 }

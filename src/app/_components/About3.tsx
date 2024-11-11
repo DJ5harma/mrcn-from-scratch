@@ -78,7 +78,7 @@ export default function About3() {
 				</div>
 				<div className="m-auto">
 					<Image
-						src={"/images/kuk.jpeg"}
+						src={"/images/kuk.jpg"}
 						width={1000}
 						height={1000}
 						alt="UIET"

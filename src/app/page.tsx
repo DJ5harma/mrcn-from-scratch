@@ -10,6 +10,7 @@ import InternationalAdvisoryCommittee from "./_components/InternationalAdvisoryC
 import TechnicalProgramCommittee from "./_components/TechnicalProgramCommittee";
 import OrganizingCommittee from "./_components/OrganizingCommittee";
 import EventLocation from "./_components/EventLocation";
+import PastConferences from "./_components/PastConferences";
 
 export default function Home() {
 	return (
@@ -29,6 +30,7 @@ export default function Home() {
 			<OrganizingCommittee />
 
 			<EventLocation />
+			<PastConferences />
 		</div>
 	);
 }
